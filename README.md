@@ -1,2 +1,2 @@
 # caneisland.github.io
-Cane Island websit
+Cane Island website
